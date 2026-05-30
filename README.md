@@ -159,21 +159,3 @@ For enterprise AI to move beyond prototypes, agents must be trustworthy. That tr
 CTOs and platform teams who invest in these patterns now will be the ones whose agents are allowed to touch real business processes. Those who treat hallucination as a model problem to be solved later will find their agents confined to sandboxes indefinitely.
 
 At Omnithium, we’re committed to making reliable agents the default, not the exception. If you’re wrestling with hallucination in your production pipelines, we’d love to share what we’ve learned. Reach out to our team or explore our trust and reliability documentation.
-
----
-
-*Originally published on the [Omnithium Blog](https://omnithium.ai/blog/agent-hallucination-detection-mitigation).*
-
-**[Omnithium](https://omnithium.ai)** is the AI agent platform for enterprises building production AI systems.
-
-📚 Explore more articles on the [Omnithium Blog](https://omnithium.ai/blog)
-
-🚀 [Get started with Omnithium](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
-
----
-
-**[Omnithium](https://omnithium.ai)** -- the AI agent platform for enterprises.
-
-📚 [Explore the Omnithium Blog](https://omnithium.ai/blog) for more insights.
-
-🚀 [Get started](https://omnithium.ai/signup) | [Explore the platform](https://omnithium.ai/platform/) | [Book a demo](https://omnithium.ai/demo/) | [Resources](https://omnithium.ai/resources)
